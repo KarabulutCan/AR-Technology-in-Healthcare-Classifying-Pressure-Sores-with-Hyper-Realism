@@ -1,7 +1,7 @@
 {
-  "baseUrl" : "./assets",
+  "baseUrl": null,
   "buildDirectory": "dist",
-  "assetsDirectory": "public/assets",
+  "assetsDirectory": "assets",
   "scriptsDirectory": "src/scripts",
   "codegenDirectory": "src/generated"
 }
