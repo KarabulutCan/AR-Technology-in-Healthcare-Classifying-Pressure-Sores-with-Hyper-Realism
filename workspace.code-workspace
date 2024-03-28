@@ -4,10 +4,11 @@
       "path": "."
     },
     {
-      "path": "./node_modules/@needle-tools/engine"
+      "path": "./node_modules/@needle-tools/engine",
+      "name": "🌵 Needle Engine"
     }
   ],
   "settings": {
-    "window.title": "Next"
+    "window.title": "SampleScene"
   }
 }
