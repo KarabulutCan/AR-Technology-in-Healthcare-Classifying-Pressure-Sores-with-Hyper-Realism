@@ -12,7 +12,7 @@
     "materials": true,
     "sceneCamera": false
   },
-  "sceneName": "Sample Scene",
+  "sceneName": "Pressure",
   "meta": null,
   "absolutePath": "https://localhost:3000",
   "deployOnly": false
