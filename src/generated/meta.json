@@ -1,5 +1,5 @@
 {
-  "gzip": true,
+  "gzip": false,
   "generator": "Unity 2022.3.11f1, Needle Engine Integration @3.35.0-pre",
   "developmentBuild": false,
   "allowHotReload": true,
